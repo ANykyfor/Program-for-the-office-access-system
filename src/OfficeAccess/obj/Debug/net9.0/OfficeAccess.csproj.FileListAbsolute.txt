@@ -1,0 +1,5 @@
+C:\Users\Artem\Documents\HomeWork\src\OfficeAccess\obj\Debug\net9.0\OfficeAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Documents\HomeWork\src\OfficeAccess\obj\Debug\net9.0\OfficeAccess.AssemblyInfoInputs.cache
+C:\Users\Artem\Documents\HomeWork\src\OfficeAccess\obj\Debug\net9.0\OfficeAccess.AssemblyInfo.cs
+C:\Users\Artem\Documents\HomeWork\src\OfficeAccess\obj\Debug\net9.0\OfficeAccess.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\HomeWork\src\OfficeAccess\obj\Debug\net9.0\OfficeAccess.sourcelink.json
